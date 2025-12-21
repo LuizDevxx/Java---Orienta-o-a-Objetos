@@ -39,6 +39,7 @@ public class Main {
                     return;
                 }
                 default -> {
+                    System.out.println("Digite de 1 a 5");
 
                 }
             }
